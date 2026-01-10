@@ -1,0 +1,12 @@
+{
+    font-family: Arial, Verdana, sans-serif;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blue
+    color: yellow;
+}
