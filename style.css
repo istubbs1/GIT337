@@ -1,6 +1,6 @@
-h1 {}
-    color: yellow;
-    font-family: Arial, Verdana, sans-serif;
+h1 {
+    color: blue;
+    font-family: comic-sans-ms, sans-serif;
     line-height: 1.5;
     box-sizing: border-box;
 }
